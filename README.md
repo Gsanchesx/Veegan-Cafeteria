@@ -1,5 +1,5 @@
 # 🌿 Veegan - Cafeteria Vegana
-Landing page desenvolvida para prática de HTML5 e CSS3, focada em um design moderno e sustentável para uma cafeteria plant-based.
+Landing page desenvolvida para prática de HTML5 e CSS3, focada em um design moderno e sustentável para uma cafeteria.
 
 # 🚀 O Projeto
 O objetivo foi transformar um layout do Figma em uma página funcional, aplicando conceitos de responsividade e fidelidade visual.
